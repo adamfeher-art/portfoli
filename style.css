@@ -40,6 +40,13 @@ header h2 {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
+/* Bemutatkozás kártya speciális */
+.about p {
+    line-height: 1.6;   /* szellősebb sorok */
+    font-size: 1.05em;  /* kicsit nagyobb, olvashatóbb szöveg */
+    color: #333;
+}
+
 /* Projektek lista */
 .projects ul {
     list-style: disc;
