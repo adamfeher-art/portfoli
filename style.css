@@ -79,3 +79,16 @@ footer {
         font-size: 1em;
     }
 }
+#myButton {
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px; /* lekerekített sarkok */
+    cursor: pointer;    /* mutató kéz a hover-nél */
+}
+
+#myButton:hover {
+    background-color: darkblue; /* amikor az egér fölé megy */
+}
